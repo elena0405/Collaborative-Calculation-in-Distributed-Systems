@@ -1,5 +1,5 @@
 # Collaborative-Calculation-in-Distributed-Systems
-Tema 3 APD 
+Tema 3 Algoritmi Paraleli si Distribuiti
 
 Pentru prima parte a temei, fiecare procesor coordonator citeste rangurile
 workerilor proprii din fisierul ascociat, dupa care tirmite catre ceilalti doi
